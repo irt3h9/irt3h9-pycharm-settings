@@ -3,11 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Python Console" timestamp="1496724873246">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/Documents/GitHub/cherrypy-warehouse/setup.py" timestamp="1495266650382">
         <mark key="'" line="5" column="15" />
         <mark key="[" line="5" column="14" />
         <mark key="]" line="5" column="14" />
         <mark key="." line="5" column="14" />
+      </file>
+      <file name="D:/Documents/GitHub/cherrypy-warehouse/requirements.txt" timestamp="1496724978130">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
     </filemarks>
     <jumps>
@@ -55,9 +64,12 @@
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search />
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts />
   </component>
