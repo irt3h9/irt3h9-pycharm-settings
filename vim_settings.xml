@@ -9,8 +9,25 @@
         <mark key="^" line="16" column="9" />
         <mark key="." line="16" column="9" />
       </file>
+      <file name="/Dummy.txt" timestamp="1506656848227">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Documents/GitHub/py-prj-core/src/py_prj/command/__init__.py" timestamp="1506657676976">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="8" column="32" />
+        <mark key="]" line="8" column="32" />
+        <mark key="." line="8" column="32" />
+        <mark key="^" line="8" column="32" />
+      </file>
       <file name="/Python Console" timestamp="1502422619281">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Documents/GitHub/py-prj-core/src/py_prj/__init__.py" timestamp="1506657944660">
+        <mark key="'" line="5" column="25" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="8" />
+        <mark key="." line="16" column="8" />
+        <mark key="^" line="15" column="61" />
       </file>
       <file name="D:/Documents/GitHub/py-prj-core/README.md" timestamp="1502442592367">
         <mark key="'" line="27" column="0" />
@@ -37,6 +54,12 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
+      <file name="D:/Documents/GitHub/py-prj-core/src/py_prj/command/main.py" timestamp="1506656827994">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="5" column="15" filename="D:/Documents/GitHub/cherrypy-warehouse/setup.py" />
@@ -45,15 +68,37 @@
       <jump line="36" column="0" filename="D:/Documents/GitHub/py-prj-core/README.md" />
       <jump line="29" column="0" filename="D:/Documents/GitHub/py-prj-core/README.md" />
       <jump line="27" column="0" filename="D:/Documents/GitHub/py-prj-core/README.md" />
+      <jump line="4" column="0" filename="D:/Documents/GitHub/py-prj-core/src/py_prj/command/main.py" />
+      <jump line="0" column="17" filename="D:/Documents/GitHub/py-prj-core/src/py_prj/command/main.py" />
+      <jump line="8" column="0" filename="D:/Documents/GitHub/py-prj-core/src/py_prj/command/main.py" />
+      <jump line="5" column="6" filename="D:/Documents/GitHub/py-prj-core/src/py_prj/command/__init__.py" />
+      <jump line="2" column="0" filename="D:/Documents/GitHub/py-prj-core/src/py_prj/command/__init__.py" />
+      <jump line="0" column="0" filename="D:/Documents/GitHub/py-prj-core/src/py_prj/command/__init__.py" />
+      <jump line="9" column="37" filename="D:/Documents/GitHub/py-prj-core/src/py_prj/__init__.py" />
+      <jump line="2" column="8" filename="D:/Documents/GitHub/py-prj-core/src/py_prj/__init__.py" />
+      <jump line="10" column="38" filename="D:/Documents/GitHub/py-prj-core/src/py_prj/__init__.py" />
+      <jump line="5" column="25" filename="D:/Documents/GitHub/py-prj-core/src/py_prj/__init__.py" />
     </jumps>
     <registers>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ZGlycGF0aCwgZGlybmFtZXMsIGZpbGVuYW1lcyA9IG9zLndhbGsoY29tbWFuZC5QQVRIKQo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyBpbXBvcnRzIChzdGRsaWIpCmZyb20gYXJncGFyc2UgaW1wb3J0IEFyZ3VtZW50UGFyc2VyCgojIGxvZ2dpbmcKaW1wb3J0IGxvZ2dpbmcKTE9HR0VSID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCgpwYXJzZXIgPSBBcmd1bWVudFBhcnNlcihkZXNjcmlwdGlvbj0ncHktcHJqIHRvb2wnKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="8">
         <text encoding="base64">Y3JlYXRlIGAvc3JjYCwgYC90c3RgLCBgL291dGAgc3ViZGlyZWN0b3JpZXMgKEMvSkFWQSBzdHlsZSkKY3JlYXRlIGAvc3JjLzxtb2R1bGVfbmFtZT4vX19pbml0X18ucHlgCmNyZWF0ZSBgcHJqLmluaWAgdG8gaG9sZCBwcm9qZWN0IG1ldGFkYXRhICh2ZXJzaW9uIG51bWJlciwgZXRjLikKY3JlYXRlIGBzZXR1cC5weWAgdGVtcGxhdGUgdGhhdCBwaWNrcyB1cCBtZXRhZGF0YSBmcm9tIGBwcmouaW5pYApjcmVhdGUgYHJlcXVpcmVtZW50cy50eHRgCm1ha2Ugc3VyZSBhbGwgY2FsbHMgdG8gcHl0aG9uIGFuZCBweXRob24gdG9vbHMgZ28gdGhyb3VnaCB0aGUgZXhlY3V0YWJsZXMgaW4gYC9TY3JpcHRzYApydW4gYHBpcCBpbnN0YWxsIC1yIHJlcXVpcmVtZW50cy50eHQgYApydW4gYHNwaGlueC1xdWlja3N0YXJ0YCBpbiBxdWlldCBtb2RlICh0aGlzIGNyZWF0ZXMgYC9kb2NgKQptb2RpZnkgdGhlIHNwaGlueCBjb25maWd1cmF0aW9uIGZpbGUgc28gdGhhdCBpdCBwaWNrcyBwcm9qZWN0IG1ldGFkYXRhIGZyb20gYHByai5pbmlgIChtaWdodCB3YW50IGEgcHJlLXR3ZWFrZWQgdGVtcGxhdGUuLi4p</text>
       </register>
-      <register name="&quot;" type="8">
-        <text encoding="base64">Y3JlYXRlIGAvc3JjYCwgYC90c3RgLCBgL291dGAgc3ViZGlyZWN0b3JpZXMgKEMvSkFWQSBzdHlsZSkKY3JlYXRlIGAvc3JjLzxtb2R1bGVfbmFtZT4vX19pbml0X18ucHlgCmNyZWF0ZSBgcHJqLmluaWAgdG8gaG9sZCBwcm9qZWN0IG1ldGFkYXRhICh2ZXJzaW9uIG51bWJlciwgZXRjLikKY3JlYXRlIGBzZXR1cC5weWAgdGVtcGxhdGUgdGhhdCBwaWNrcyB1cCBtZXRhZGF0YSBmcm9tIGBwcmouaW5pYApjcmVhdGUgYHJlcXVpcmVtZW50cy50eHRgCm1ha2Ugc3VyZSBhbGwgY2FsbHMgdG8gcHl0aG9uIGFuZCBweXRob24gdG9vbHMgZ28gdGhyb3VnaCB0aGUgZXhlY3V0YWJsZXMgaW4gYC9TY3JpcHRzYApydW4gYHBpcCBpbnN0YWxsIC1yIHJlcXVpcmVtZW50cy50eHQgYApydW4gYHNwaGlueC1xdWlja3N0YXJ0YCBpbiBxdWlldCBtb2RlICh0aGlzIGNyZWF0ZXMgYC9kb2NgKQptb2RpZnkgdGhlIHNwaGlueCBjb25maWd1cmF0aW9uIGZpbGUgc28gdGhhdCBpdCBwaWNrcyBwcm9qZWN0IG1ldGFkYXRhIGZyb20gYHByai5pbmlgIChtaWdodCB3YW50IGEgcHJlLXR3ZWFrZWQgdGVtcGxhdGUuLi4p</text>
-      </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text>Lib.distutils', 'Lib.encodings', 'Lib.site-packages.pip', 'Lib.site-packages.pip.req',
               'Lib.site-packages.pip.vcs', 'Lib.site-packages.pip.utils', 'Lib.site-packages.pip.compat',
               'Lib.site-packages.pip.models', 'Lib.site-packages.pip._vendor', 'Lib.site-packages.pip._vendor.distlib',
@@ -83,7 +128,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>=</text>
       </register>
     </registers>
     <search>
@@ -101,6 +146,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
