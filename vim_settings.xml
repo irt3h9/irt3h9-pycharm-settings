@@ -20,12 +20,12 @@
       <file name="/Python Console" timestamp="1502422619281">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Documents/GitHub/py-prj-core/src/py_prj/__init__.py" timestamp="1506661655290">
+      <file name="D:/Documents/GitHub/py-prj-core/src/py_prj/__init__.py" timestamp="1506662067930">
         <mark key="'" line="17" column="42" />
         <mark key="[" line="26" column="35" />
-        <mark key="]" line="26" column="49" />
-        <mark key="." line="26" column="49" />
-        <mark key="^" line="26" column="49" />
+        <mark key="]" line="26" column="47" />
+        <mark key="." line="26" column="47" />
+        <mark key="^" line="26" column="47" />
       </file>
       <file name="D:/Documents/GitHub/py-prj-core/README.md" timestamp="1502442592367">
         <mark key="'" line="27" column="0" />
@@ -93,7 +93,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>help='command'</text>
+        <text>title='commands'</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -123,7 +123,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>help='command'</text>
+        <text>title='commands'</text>
       </register>
     </registers>
     <search>
