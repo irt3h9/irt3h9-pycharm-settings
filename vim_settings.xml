@@ -22,12 +22,12 @@
       <file name="/Python Console" timestamp="1502422619281">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Documents/GitHub/py-prj-core/src/py_prj/__init__.py" timestamp="1506657944660">
+      <file name="D:/Documents/GitHub/py-prj-core/src/py_prj/__init__.py" timestamp="1506658078561">
         <mark key="'" line="5" column="25" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="8" />
-        <mark key="." line="16" column="8" />
-        <mark key="^" line="15" column="61" />
+        <mark key="[" line="16" column="14" />
+        <mark key="]" line="16" column="18" />
+        <mark key="." line="16" column="18" />
+        <mark key="^" line="16" column="18" />
       </file>
       <file name="D:/Documents/GitHub/py-prj-core/README.md" timestamp="1502442592367">
         <mark key="'" line="27" column="0" />
@@ -84,7 +84,7 @@
         <text encoding="base64">ZGlycGF0aCwgZGlybmFtZXMsIGZpbGVuYW1lcyA9IG9zLndhbGsoY29tbWFuZC5QQVRIKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>'{}, {}, {}'.format(dirpath, dirnames, filenames)</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -128,7 +128,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>'{}, {}, {}'.format(dirpath, dirnames, filenames)</text>
       </register>
     </registers>
     <search>
