@@ -12,11 +12,6 @@
       <file name="/Dummy.txt" timestamp="1506656848227">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Documents/GitHub/py-prj-core/src/py_prj/command/__init__.py" timestamp="1506659309321">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/Python Console" timestamp="1502422619281">
         <mark key="[" line="0" column="0" />
       </file>
@@ -26,13 +21,6 @@
         <mark key="]" line="26" column="47" />
         <mark key="." line="26" column="47" />
         <mark key="^" line="26" column="47" />
-      </file>
-      <file name="D:/Documents/GitHub/py-prj-core/README.md" timestamp="1502442592367">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="15" column="21" />
-        <mark key="." line="15" column="21" />
-        <mark key="^" line="15" column="21" />
       </file>
       <file name="D:/Documents/GitHub/cherrypy-warehouse/setup.py" timestamp="1495266650382">
         <mark key="'" line="5" column="15" />
@@ -46,6 +34,42 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
+      <file name="D:/Documents/Python/Projects/Miscellaneous/requirements.txt" timestamp="1512534912107">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="4" column="3" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="4" column="3" />
+      </file>
+      <file name="D:/Documents/GitHub/py-prj-core/src/py_prj/meta.json" timestamp="1506660260745">
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="1" column="19" />
+        <mark key="^" line="1" column="19" />
+        <mark key="." line="1" column="19" />
+      </file>
+      <file name="D:/Documents/GitHub/py-prj-core/src/py_prj/command/__init__.py" timestamp="1506659309321">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/Documents/GitHub/py-prj-core/README.md" timestamp="1502442592367">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="21" />
+        <mark key="." line="15" column="21" />
+        <mark key="^" line="15" column="21" />
+      </file>
+      <file name="D:/Documents/Python/Projects/Miscellaneous/src/audit_config/default_configuration.py" timestamp="1512535692582">
+        <mark key="[" line="6" column="35" />
+        <mark key="]" line="6" column="47" />
+        <mark key="." line="6" column="47" />
+        <mark key="^" line="6" column="47" />
+      </file>
+      <file name="D:/Documents/Python/Projects/Miscellaneous/src/audit_config/configuration_parser.py" timestamp="1512536006110">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+        <mark key="^" line="2" column="6" />
+      </file>
       <file name="D:/Documents/GitHub/cherrypy-warehouse/requirements.txt" timestamp="1496724978130">
         <mark key="[" line="0" column="6" />
         <mark key="]" line="0" column="5" />
@@ -57,12 +81,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/Documents/GitHub/py-prj-core/src/py_prj/meta.json" timestamp="1506660260745">
-        <mark key="[" line="1" column="19" />
-        <mark key="]" line="1" column="19" />
-        <mark key="^" line="1" column="19" />
-        <mark key="." line="1" column="19" />
       </file>
     </filemarks>
     <jumps>
@@ -90,40 +108,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBDb25maWdQYXJzZXIgaW1wb3J0IFJhd0NvbmZpZ1BhcnNlcgoKQ09ORklHVVJBVElPTl9QQVJTRVIgPSBSYXdDb25maWdQYXJzZXIoKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>title='commands'</text>
+        <text>audit_config</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">c2V0dXB0b29scyA+PSAwLjgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGlwID49IDEuNAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGFyc2VyLmFkZF9hcmd1bWVudCgnY29tbWFuZCcpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGFyc2VyLmFkZF9hcmd1bWVudCgnYXJndW1lbnRzJywgbmFyZ3M9YXJncGFyc2UuUkVNQUlOREVSKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChuYW1lcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciBuYW1lcyBpbiBvcy5saXN0ZGlyKGNvbW1hbmQuUEFUSCk6Cg==</text>
+        <text encoding="base64">cGFyc2VyLmFkZF9hcmd1bWVudCgnY29tbWFuZCcpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">cGFyc2VyLmFkZF9hcmd1bWVudCgnYXJndW1lbnRzJywgbmFyZ3M9YXJncGFyc2UuUkVNQUlOREVSKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>title='commands'</text>
+        <text>audit_config</text>
       </register>
     </registers>
     <search>
