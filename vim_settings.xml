@@ -37,18 +37,18 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" timestamp="1512546148101">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="14" column="66" />
-        <mark key="]" line="4" column="31" />
-        <mark key="." line="4" column="31" />
-        <mark key="^" line="4" column="31" />
+      <file name="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" timestamp="1512547599119">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="36" column="44" />
+        <mark key="]" line="36" column="53" />
+        <mark key="." line="36" column="53" />
+        <mark key="^" line="36" column="53" />
       </file>
-      <file name="D:/Documents/Python/Projects/Miscellaneous/requirements.txt" timestamp="1512534912107">
-        <mark key="[" line="3" column="6" />
-        <mark key="]" line="4" column="3" />
-        <mark key="^" line="4" column="3" />
-        <mark key="." line="4" column="3" />
+      <file name="D:/Documents/Python/Projects/Miscellaneous/requirements.txt" timestamp="1512547521594">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="6" column="7" />
+        <mark key="^" line="6" column="7" />
+        <mark key="." line="6" column="7" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/settings.py" timestamp="1512539442720">
         <mark key="[" line="29" column="0" />
@@ -136,61 +136,72 @@
       <jump line="4" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/settings.py" />
       <jump line="2" column="8" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
       <jump line="5" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
-      <jump line="9" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
       <jump line="0" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
       <jump line="1" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
       <jump line="3" column="9" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
-      <jump line="13" column="55" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
       <jump line="35" column="7" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
-      <jump line="25" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
-      <jump line="15" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
-      <jump line="7" column="43" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
       <jump line="39" column="20" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
-      <jump line="36" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
-      <jump line="29" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
-      <jump line="20" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
       <jump line="40" column="43" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
       <jump line="16" column="9" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
       <jump line="23" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
       <jump line="31" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
       <jump line="18" column="73" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
+      <jump line="20" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
+      <jump line="28" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
+      <jump line="26" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
+      <jump line="27" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
+      <jump line="6" column="31" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
+      <jump line="7" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
+      <jump line="13" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
+      <jump line="22" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
+      <jump line="25" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
+      <jump line="29" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
+      <jump line="36" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
+      <jump line="41" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
+      <jump line="37" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
+      <jump line="34" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
+      <jump line="8" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
+      <jump line="9" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
+      <jump line="11" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
+      <jump line="15" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
+      <jump line="17" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>**</text>
+        <text>Style.RESET_ALL</text>
       </register>
       <register name="-" type="4">
-        <text>**</text>
+        <text>Style.RESET_ALL</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QXVkaXRMb2dnaW5nU3RkT3V0SGFuZGxlciA9IFN0cmVhbUhhbmRsZXIoc3lzLnN0ZG91dCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QXVkaXRMb2dnaW5nU3RkRXJySGFuZGxlciA9IFN0cmVhbUhhbmRsZXIoc3lzLnN0ZGVyciwgbGV2ZWw9RVJST1IpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QXVkaXRMb2dnaW5nU3RkT3V0SGFuZGxlciA9IFN0cmVhbUhhbmRsZXIoc3lzLnN0ZG91dCwgbGV2ZWw9SU5GTykK</text>
+        <text encoding="base64">Y29sb3JhbWEuaW5pdCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bV9mbXQgPSAnJwo=</text>
+        <text encoding="base64">CiAgICAgICAgaWYgbm90IHJlY29yZC5leGNfaW5mbzoKICAgICAgICAgICAgd3JhcHBlciA9IFRleHRXcmFwcGVyKHN1YnNlcXVlbnRfaW5kZW50PScgJyAqIDQpCiAgICAgICAgICAgIG91dHB1dCA9IHdyYXBwZXIuZmlsbChvdXRwdXQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bV9mbXQgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZF9mbXQgPSAnJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CkF1ZGl0TG9nZ2luZ1N0ZE91dEhhbmRsZXIgPSBTdHJlYW1IYW5kbGVyKHN5cy5zdGRvdXQpCkF1ZGl0TG9nZ2luZ1N0ZEVyckhhbmRsZXIgPSBTdHJlYW1IYW5kbGVyKHN5cy5zdGRlcnIpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiByZWNvcmQubGV2ZWxubyA+PSBDUklUSUNBTDoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgpjbGFzcyBBdWRpdExvZ2dpbmdTdGRFcnJIYW5kbGVyKFN0cmVhbUhhbmRsZXIpOgogICAgZGVmIF9faW5pdF9fKHNlbGYpOgogICAgICAgICIiIgoKICAgICAgICAiIiIKICAgICAgICBzdXBlcihBdWRpdExvZ2dpbmdTdGRFcnJIYW5kbGVyLCBzZWxmKS5fX2luaXRfXyhzeXMuc3RkZXJyKQoKCmNsYXNzIEF1ZGl0TG9nZ2luZ1N0ZE91dEhhbmRsZXIoU3RyZWFtSGFuZGxlcik6CiAgICBkZWYgX19pbml0X18oc2VsZik6CiAgICAgICAgIiIiCgogICAgICAgICIiIgogICAgICAgIHN1cGVyKEF1ZGl0TG9nZ2luZ1N0ZE91dEhhbmRsZXIsIHNlbGYpLl9faW5pdF9fKHN5cy5zdGRvdXQpCg==</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIHJlY29yZC5sZXZlbG5vID49IEVSUk9SOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIHJlY29yZC5sZXZlbG5vID49IENSSVRJQ0FMOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U0VUVElOR1MgPSBBdWRpdFNldHRpbmdzKCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiByZWNvcmQubGV2ZWxubyA+PSAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
