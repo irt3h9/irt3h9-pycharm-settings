@@ -37,11 +37,12 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" timestamp="1512539815484">
-        <mark key="[" line="2" column="34" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" timestamp="1512541280314">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="18" column="54" />
+        <mark key="]" line="18" column="66" />
+        <mark key="." line="18" column="66" />
+        <mark key="^" line="18" column="66" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/requirements.txt" timestamp="1512534912107">
         <mark key="[" line="3" column="6" />
@@ -133,40 +134,45 @@
       <jump line="15" column="14" filename="D:/Documents/GitHub/py-prj-core/src/py_prj/__init__.py" />
       <jump line="17" column="42" filename="D:/Documents/GitHub/py-prj-core/src/py_prj/__init__.py" />
       <jump line="4" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/settings.py" />
+      <jump line="2" column="8" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
+      <jump line="3" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
+      <jump line="5" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
+      <jump line="7" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
+      <jump line="9" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmRlYnVnKCdDcmVhdGluZyBkZWZhdWx0IElOSScpCg==</text>
+      <register name="&quot;" type="4">
+        <text>SETTINGS.logging_dir</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uZmlndXJhdGlvbiA=</text>
+        <text>SETTINGS.logging_dir</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmRlYnVnKCdJTkkgZm91bmQnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmRlYnVnKCdDcmVhdGluZyBkZWZhdWx0IElOSScpCg==</text>
+        <text encoding="base64">U0VUVElOR1MgPSBBdWRpdFNldHRpbmdzKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuYWRkX3NlY3Rpb24oJ0xvZ2dpbmcnKQogICAgICAgICAgICAgICAgc2VsZi5zZXQoJ0xvZ2dpbmcnLCAnZGlyJywgb3MucGF0aC5qb2luKCdDOicsIG9zLnNlcCwgJ0FVRElUX0xPRycpKQo=</text>
+        <text encoding="base64">CgpGSUxFX0hBTkRMRVIgPQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmRlYnVnKCdDcmVhdGluZyBkZWZhdWx0IElOSScpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBDb25maWdQYXJzZXIgaW1wb3J0IFJhd0NvbmZpZ1BhcnNlcgoKQ09ORklHVVJBVElPTl9QQVJTRVIgPSBSYXdDb25maWdQYXJzZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuYWRkX3NlY3Rpb24oJ0xvZ2dpbmcnKQogICAgICAgICAgICAgICAgc2VsZi5zZXQoJ0xvZ2dpbmcnLCAnZGlyJywgb3MucGF0aC5qb2luKCdDOicsIG9zLnNlcCwgJ0FVRElUX0xPRycpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2V0dXB0b29scyA+PSAwLjgK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGlwID49IDEuNAo=</text>
+        <text encoding="base64">ZnJvbSBDb25maWdQYXJzZXIgaW1wb3J0IFJhd0NvbmZpZ1BhcnNlcgoKQ09ORklHVVJBVElPTl9QQVJTRVIgPSBSYXdDb25maWdQYXJzZXIoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2V0dXB0b29scyA+PSAwLjgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">cGlwID49IDEuNAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
