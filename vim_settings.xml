@@ -37,12 +37,12 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" timestamp="1512547599119">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="36" column="44" />
-        <mark key="]" line="36" column="53" />
-        <mark key="." line="36" column="53" />
-        <mark key="^" line="36" column="53" />
+      <file name="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" timestamp="1512549441129">
+        <mark key="'" line="19" column="2" />
+        <mark key="[" line="19" column="2" />
+        <mark key="]" line="19" column="20" />
+        <mark key="^" line="19" column="20" />
+        <mark key="." line="19" column="20" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/requirements.txt" timestamp="1512547521594">
         <mark key="[" line="4" column="4" />
@@ -165,43 +165,47 @@
       <jump line="11" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
       <jump line="15" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
       <jump line="17" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
+      <jump line="62" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
+      <jump line="56" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
+      <jump line="47" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
+      <jump line="19" column="2" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Style.RESET_ALL</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiMgMTIzNDU2Nzh8CiMgREVCVUcgICB8CiMgSU5GTyAgICB8CiMgV0FSTklORyB8CiMgRVJST1IgICB8CiMgQ1JJVElDQUx8Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Style.RESET_ALL</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QXVkaXRMb2dnaW5nU3RkT3V0SGFuZGxlciA9IFN0cmVhbUhhbmRsZXIoc3lzLnN0ZG91dCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiMgMTIzNDU2Nzh8CiMgREVCVUcgICB8CiMgSU5GTyAgICB8CiMgV0FSTklORyB8CiMgRVJST1IgICB8CiMgQ1JJVElDQUx8Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29sb3JhbWEuaW5pdCgpCg==</text>
+        <text encoding="base64">CiMgRm9ybWF0dGVyKCdbICUoYXNjdGltZSlzIF1bICUobGV2ZWxuYW1lKThzIF0gJShtZXNzYWdlKXMnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgbm90IHJlY29yZC5leGNfaW5mbzoKICAgICAgICAgICAgd3JhcHBlciA9IFRleHRXcmFwcGVyKHN1YnNlcXVlbnRfaW5kZW50PScgJyAqIDQpCiAgICAgICAgICAgIG91dHB1dCA9IHdyYXBwZXIuZmlsbChvdXRwdXQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Y29sb3JhbWEuaW5pdCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICAgICAgaWYgbm90IHJlY29yZC5leGNfaW5mbzoKICAgICAgICAgICAgd3JhcHBlciA9IFRleHRXcmFwcGVyKHN1YnNlcXVlbnRfaW5kZW50PScgJyAqIDQpCiAgICAgICAgICAgIG91dHB1dCA9IHdyYXBwZXIuZmlsbChvdXRwdXQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByZWNvcmQubGV2ZWxubyA+PSBDUklUSUNBTDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIHJlY29yZC5sZXZlbG5vID49IEVSUk9SOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIHJlY29yZC5sZXZlbG5vID49IENSSVRJQ0FMOgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiByZWNvcmQubGV2ZWxubyA+PSBDUklUSUNBTDoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByZWNvcmQubGV2ZWxubyA+PSAK</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIHJlY29yZC5sZXZlbG5vID49IEVSUk9SOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
