@@ -9,18 +9,8 @@
         <mark key="^" line="16" column="9" />
         <mark key="." line="16" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506656848227">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Python Console" timestamp="1512538922804">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Documents/Python/Projects/Miscellaneous/Flex_datareplication.py" timestamp="1514575048588">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="67" column="52" />
-        <mark key="." line="41" column="32" />
-        <mark key="^" line="41" column="13" />
       </file>
       <file name="D:/Documents/GitHub/py-prj-core/src/py_prj/__init__.py" timestamp="1506662067930">
         <mark key="'" line="17" column="42" />
@@ -32,18 +22,12 @@
       <file name="/a.dummy" timestamp="1514573582630">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Documents/GitHub/cherrypy-warehouse/setup.py" timestamp="1495266650382">
-        <mark key="'" line="5" column="15" />
-        <mark key="[" line="5" column="14" />
-        <mark key="]" line="5" column="14" />
-        <mark key="." line="5" column="14" />
-      </file>
-      <file name="D:/Documents/Python/Projects/Miscellaneous/LTRAudistList.py" timestamp="1514576093752">
-        <mark key="'" line="71" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="55" column="61" />
-        <mark key="^" line="55" column="61" />
+      <file name="D:/Documents/Python/Projects/Miscellaneous/LTRAudistList.py" timestamp="1514578018961">
+        <mark key="'" line="67" column="0" />
+        <mark key="[" line="68" column="17" />
+        <mark key="]" line="68" column="25" />
+        <mark key="." line="68" column="25" />
+        <mark key="^" line="68" column="25" />
       </file>
       <file name="D:/Documents/GitHub/py-prj-core/requirements.txt" timestamp="1502440811501">
         <mark key="[" line="0" column="0" />
@@ -51,18 +35,94 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" timestamp="1512549441129">
-        <mark key="'" line="19" column="2" />
-        <mark key="[" line="19" column="2" />
-        <mark key="]" line="19" column="20" />
-        <mark key="^" line="19" column="20" />
-        <mark key="." line="19" column="20" />
+      <file name="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_PETALUMA.py" timestamp="1514581048218">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="261" column="0" />
+        <mark key="]" line="261" column="28" />
+        <mark key="." line="26" column="54" />
+        <mark key="^" line="26" column="54" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/requirements.txt" timestamp="1512547521594">
         <mark key="[" line="4" column="4" />
         <mark key="]" line="6" column="7" />
         <mark key="^" line="6" column="7" />
         <mark key="." line="6" column="7" />
+      </file>
+      <file name="D:/Documents/Python/Projects/Miscellaneous/src/configuration/load.py" timestamp="1512536385266">
+        <mark key="[" line="2" column="39" />
+        <mark key="]" line="4" column="22" />
+        <mark key="^" line="4" column="22" />
+        <mark key="." line="4" column="22" />
+      </file>
+      <file name="D:/Documents/Python/Projects/Miscellaneous/PlotAllLTRUnits.py" timestamp="1514579901748">
+        <mark key="'" line="105" column="48" />
+        <mark key="[" line="256" column="21" />
+        <mark key="]" line="258" column="29" />
+        <mark key="^" line="258" column="29" />
+        <mark key="." line="258" column="29" />
+      </file>
+      <file name="D:/Documents/GitHub/py-prj-core/README.md" timestamp="1502442592367">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="21" />
+        <mark key="." line="15" column="21" />
+        <mark key="^" line="15" column="21" />
+      </file>
+      <file name="D:/Documents/Python/Projects/Miscellaneous/src/audit_config/configuration_parser.py" timestamp="1512536143608">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="5" />
+        <mark key="." line="2" column="5" />
+        <mark key="^" line="2" column="6" />
+      </file>
+      <file name="D:/Documents/Python/Projects/Miscellaneous/Flex_datareplication2.py" timestamp="1514578211730">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="65" column="35" />
+        <mark key="^" line="65" column="35" />
+      </file>
+      <file name="D:/Documents/Python/Projects/Miscellaneous/ORTAudistList.py" timestamp="1514578036963">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="67" column="17" />
+        <mark key="]" line="67" column="25" />
+        <mark key="." line="67" column="25" />
+        <mark key="^" line="67" column="25" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1506656848227">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Documents/Python/Projects/Miscellaneous/PlotAllLTRFails.py" timestamp="1514580323904">
+        <mark key="'" line="44" column="29" />
+        <mark key="[" line="405" column="0" />
+        <mark key="]" line="405" column="28" />
+        <mark key="^" line="402" column="38" />
+        <mark key="." line="405" column="4" />
+      </file>
+      <file name="D:/Documents/Python/Projects/Miscellaneous/Flex_datareplication.py" timestamp="1514578063964">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="65" column="22" />
+        <mark key="]" line="65" column="35" />
+        <mark key="." line="65" column="35" />
+        <mark key="^" line="65" column="35" />
+      </file>
+      <file name="D:/Documents/Python/Projects/Miscellaneous/LTRDbConnect.py" timestamp="1514746798992">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="D:/Documents/Python/Projects/Miscellaneous/dbPowerAndTempPlot.py" timestamp="1514746806979">
+        <mark key="'" line="405" column="0" />
+        <mark key="[" line="469" column="26" />
+        <mark key="]" line="469" column="26" />
+        <mark key="^" line="469" column="26" />
+        <mark key="." line="469" column="26" />
+      </file>
+      <file name="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" timestamp="1512549441129">
+        <mark key="'" line="19" column="2" />
+        <mark key="[" line="19" column="2" />
+        <mark key="]" line="19" column="20" />
+        <mark key="^" line="19" column="20" />
+        <mark key="." line="19" column="20" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/settings.py" timestamp="1512539442720">
         <mark key="[" line="29" column="0" />
@@ -82,30 +142,12 @@
         <mark key="." line="21" column="39" />
         <mark key="^" line="21" column="39" />
       </file>
-      <file name="D:/Documents/GitHub/py-prj-core/src/py_prj/command/__init__.py" timestamp="1506659309321">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/Documents/Python/Projects/Miscellaneous/src/configuration/load.py" timestamp="1512536385266">
-        <mark key="[" line="2" column="39" />
-        <mark key="]" line="4" column="22" />
-        <mark key="^" line="4" column="22" />
-        <mark key="." line="4" column="22" />
-      </file>
-      <file name="D:/Documents/Python/Projects/Miscellaneous/PlotAllLTRUnits.py" timestamp="1514576543965">
-        <mark key="'" line="259" column="16" />
-        <mark key="[" line="249" column="18" />
-        <mark key="]" line="249" column="47" />
-        <mark key="^" line="249" column="47" />
-        <mark key="." line="249" column="47" />
-      </file>
-      <file name="D:/Documents/GitHub/py-prj-core/README.md" timestamp="1502442592367">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="15" column="21" />
-        <mark key="." line="15" column="21" />
-        <mark key="^" line="15" column="21" />
+      <file name="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_RandomAudit.py" timestamp="1514580777843">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="379" column="0" />
+        <mark key="]" line="379" column="28" />
+        <mark key="^" line="351" column="3" />
+        <mark key="." line="351" column="3" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/audit_config/default_configuration.py" timestamp="1512535692582">
         <mark key="[" line="6" column="35" />
@@ -113,16 +155,12 @@
         <mark key="." line="6" column="47" />
         <mark key="^" line="6" column="47" />
       </file>
-      <file name="D:/Documents/Python/Projects/Miscellaneous/src/audit_config/configuration_parser.py" timestamp="1512536143608">
-        <mark key="[" line="2" column="5" />
-        <mark key="]" line="2" column="5" />
-        <mark key="." line="2" column="5" />
-        <mark key="^" line="2" column="6" />
-      </file>
-      <file name="D:/Documents/Python/Projects/Miscellaneous/Flex_datareplication2.py" timestamp="1514575300357">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="0" column="13" />
+      <file name="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits.py" timestamp="1514581049688">
+        <mark key="'" line="408" column="4" />
+        <mark key="[" line="404" column="0" />
+        <mark key="]" line="404" column="28" />
+        <mark key="." line="404" column="0" />
+        <mark key="^" line="58" column="36" />
       </file>
       <file name="D:/Documents/GitHub/cherrypy-warehouse/requirements.txt" timestamp="1496724978130">
         <mark key="[" line="0" column="6" />
@@ -130,63 +168,8 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="D:/Documents/GitHub/py-prj-core/src/py_prj/command/main.py" timestamp="1506656827994">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/Documents/Python/Projects/Miscellaneous/ORTAudistList.py" timestamp="1514575973752">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="68" column="28" />
-        <mark key="]" line="68" column="30" />
-        <mark key="." line="68" column="30" />
-        <mark key="^" line="68" column="30" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="15" filename="D:/Documents/GitHub/cherrypy-warehouse/setup.py" />
-      <jump line="41" column="0" filename="D:/Documents/GitHub/py-prj-core/README.md" />
-      <jump line="38" column="0" filename="D:/Documents/GitHub/py-prj-core/README.md" />
-      <jump line="36" column="0" filename="D:/Documents/GitHub/py-prj-core/README.md" />
-      <jump line="29" column="0" filename="D:/Documents/GitHub/py-prj-core/README.md" />
-      <jump line="27" column="0" filename="D:/Documents/GitHub/py-prj-core/README.md" />
-      <jump line="4" column="0" filename="D:/Documents/GitHub/py-prj-core/src/py_prj/command/main.py" />
-      <jump line="0" column="17" filename="D:/Documents/GitHub/py-prj-core/src/py_prj/command/main.py" />
-      <jump line="8" column="0" filename="D:/Documents/GitHub/py-prj-core/src/py_prj/command/main.py" />
-      <jump line="5" column="6" filename="D:/Documents/GitHub/py-prj-core/src/py_prj/command/__init__.py" />
-      <jump line="2" column="0" filename="D:/Documents/GitHub/py-prj-core/src/py_prj/command/__init__.py" />
-      <jump line="0" column="0" filename="D:/Documents/GitHub/py-prj-core/src/py_prj/command/__init__.py" />
-      <jump line="9" column="37" filename="D:/Documents/GitHub/py-prj-core/src/py_prj/__init__.py" />
-      <jump line="2" column="8" filename="D:/Documents/GitHub/py-prj-core/src/py_prj/__init__.py" />
-      <jump line="5" column="25" filename="D:/Documents/GitHub/py-prj-core/src/py_prj/__init__.py" />
-      <jump line="8" column="32" filename="D:/Documents/GitHub/py-prj-core/src/py_prj/command/__init__.py" />
-      <jump line="16" column="18" filename="D:/Documents/GitHub/py-prj-core/src/py_prj/__init__.py" />
-      <jump line="14" column="65" filename="D:/Documents/GitHub/py-prj-core/src/py_prj/__init__.py" />
-      <jump line="10" column="9" filename="D:/Documents/GitHub/py-prj-core/src/py_prj/__init__.py" />
-      <jump line="15" column="14" filename="D:/Documents/GitHub/py-prj-core/src/py_prj/__init__.py" />
-      <jump line="17" column="42" filename="D:/Documents/GitHub/py-prj-core/src/py_prj/__init__.py" />
-      <jump line="4" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/settings.py" />
-      <jump line="2" column="8" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
-      <jump line="5" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
-      <jump line="0" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
-      <jump line="1" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
-      <jump line="3" column="9" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
-      <jump line="35" column="7" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
-      <jump line="39" column="20" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
-      <jump line="40" column="43" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
-      <jump line="16" column="9" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
-      <jump line="23" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
-      <jump line="31" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
-      <jump line="18" column="73" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
-      <jump line="20" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
-      <jump line="28" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
-      <jump line="26" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
-      <jump line="27" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
-      <jump line="6" column="31" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
-      <jump line="7" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
-      <jump line="13" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
-      <jump line="22" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
       <jump line="25" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
       <jump line="29" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
       <jump line="36" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" />
@@ -206,76 +189,138 @@
       <jump line="7" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/Flex_datareplication.py" />
       <jump line="9" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/Flex_datareplication.py" />
       <jump line="30" column="72" filename="D:/Documents/Python/Projects/Miscellaneous/Flex_datareplication.py" />
-      <jump line="31" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/Flex_datareplication.py" />
       <jump line="33" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/Flex_datareplication.py" />
       <jump line="37" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/Flex_datareplication.py" />
       <jump line="43" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/Flex_datareplication.py" />
       <jump line="47" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/Flex_datareplication.py" />
       <jump line="51" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/Flex_datareplication.py" />
-      <jump line="33" column="56" filename="D:/Documents/Python/Projects/Miscellaneous/LTRAudistList.py" />
       <jump line="31" column="80" filename="D:/Documents/Python/Projects/Miscellaneous/LTRAudistList.py" />
-      <jump line="32" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/LTRAudistList.py" />
       <jump line="47" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/LTRAudistList.py" />
       <jump line="60" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/LTRAudistList.py" />
       <jump line="62" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/LTRAudistList.py" />
-      <jump line="33" column="55" filename="D:/Documents/Python/Projects/Miscellaneous/ORTAudistList.py" />
       <jump line="34" column="40" filename="D:/Documents/Python/Projects/Miscellaneous/ORTAudistList.py" />
       <jump line="35" column="56" filename="D:/Documents/Python/Projects/Miscellaneous/ORTAudistList.py" />
-      <jump line="36" column="18" filename="D:/Documents/Python/Projects/Miscellaneous/ORTAudistList.py" />
       <jump line="6" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/ORTAudistList.py" />
       <jump line="51" column="17" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllLTRUnits.py" />
       <jump line="261" column="15" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllLTRUnits.py" />
       <jump line="50" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllLTRUnits.py" />
       <jump line="256" column="16" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllLTRUnits.py" />
+      <jump line="31" column="23" filename="D:/Documents/Python/Projects/Miscellaneous/Flex_datareplication2.py" />
+      <jump line="32" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/Flex_datareplication2.py" />
+      <jump line="34" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/Flex_datareplication2.py" />
+      <jump line="38" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/Flex_datareplication2.py" />
+      <jump line="44" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/Flex_datareplication2.py" />
+      <jump line="48" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/Flex_datareplication2.py" />
+      <jump line="52" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/Flex_datareplication2.py" />
+      <jump line="183" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllLTRUnits.py" />
+      <jump line="188" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllLTRUnits.py" />
+      <jump line="198" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllLTRUnits.py" />
+      <jump line="204" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllLTRUnits.py" />
+      <jump line="207" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllLTRUnits.py" />
+      <jump line="214" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllLTRUnits.py" />
+      <jump line="222" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllLTRUnits.py" />
+      <jump line="237" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllLTRUnits.py" />
+      <jump line="240" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllLTRUnits.py" />
+      <jump line="32" column="27" filename="D:/Documents/Python/Projects/Miscellaneous/LTRAudistList.py" />
+      <jump line="33" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/LTRAudistList.py" />
+      <jump line="36" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/LTRAudistList.py" />
+      <jump line="52" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/LTRAudistList.py" />
+      <jump line="67" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/LTRAudistList.py" />
+      <jump line="32" column="27" filename="D:/Documents/Python/Projects/Miscellaneous/ORTAudistList.py" />
+      <jump line="33" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/ORTAudistList.py" />
+      <jump line="36" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/ORTAudistList.py" />
+      <jump line="52" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/ORTAudistList.py" />
+      <jump line="66" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/ORTAudistList.py" />
+      <jump line="31" column="31" filename="D:/Documents/Python/Projects/Miscellaneous/Flex_datareplication.py" />
+      <jump line="32" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/Flex_datareplication.py" />
+      <jump line="34" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/Flex_datareplication.py" />
+      <jump line="38" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/Flex_datareplication.py" />
+      <jump line="44" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/Flex_datareplication.py" />
+      <jump line="48" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/Flex_datareplication.py" />
+      <jump line="52" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/Flex_datareplication.py" />
+      <jump line="412" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/dbPowerAndTempPlot.py" />
+      <jump line="450" column="27" filename="D:/Documents/Python/Projects/Miscellaneous/dbPowerAndTempPlot.py" />
+      <jump line="384" column="23" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllLTRFails.py" />
+      <jump line="105" column="48" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllLTRUnits.py" />
+      <jump line="399" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllLTRFails.py" />
+      <jump line="404" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllLTRFails.py" />
+      <jump line="343" column="4" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_RandomAudit.py" />
+      <jump line="283" column="74" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_RandomAudit.py" />
+      <jump line="39" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_RandomAudit.py" />
+      <jump line="44" column="29" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllLTRFails.py" />
+      <jump line="383" column="3" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_RandomAudit.py" />
+      <jump line="333" column="8" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_RandomAudit.py" />
+      <jump line="197" column="39" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_PETALUMA.py" />
+      <jump line="230" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_PETALUMA.py" />
+      <jump line="209" column="8" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_PETALUMA.py" />
+      <jump line="0" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_PETALUMA.py" />
+      <jump line="232" column="4" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_PETALUMA.py" />
+      <jump line="371" column="38" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_RandomAudit.py" />
+      <jump line="48" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_PETALUMA.py" />
+      <jump line="61" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_RandomAudit.py" />
+      <jump line="261" column="4" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_PETALUMA.py" />
+      <jump line="294" column="44" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits.py" />
+      <jump line="33" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits.py" />
+      <jump line="329" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits.py" />
+      <jump line="0" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits.py" />
+      <jump line="346" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits.py" />
+      <jump line="179" column="23" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_PETALUMA.py" />
+      <jump line="39" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits.py" />
+      <jump line="56" column="36" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits.py" />
+      <jump line="373" column="4" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits.py" />
+      <jump line="86" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_PETALUMA.py" />
+      <jump line="405" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/dbPowerAndTempPlot.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIExPR0dFUi5pbmZvKCdwbG90LWFsbC1sdHItdW5pdHMgLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLiBbIFNUQVJUIF0nKQo=</text>
+        <text encoding="base64">aW1wb3J0IHN1YnByb2Nlc3MK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAjIHBsb3RzIHNlcmlhbE51bWJlcg==</text>
+        <text>PlotAllORTUnits_PETALUMA</text>
       </register>
       <register name="/" type="4">
-        <text>HelloWorld</text>
+        <text>##</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIExPR0dFUi5pbmZvKCdwbG90LWFsbC1sdHItdW5pdHMgLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLiBbIFNUQVJUIF0nKQo=</text>
+        <text encoding="base64">ICAgIExPR0dFUi5pbmZvKCcqKiBFTkQgKionKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgZXhhbXBsZSBvZiBob3cgdG8gcGxvdCBhIHVuaXQK</text>
+        <text encoding="base64">aW1wb3J0IHN1YnByb2Nlc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHVuaXQucGxvdFVuaXQoc2VyaWFsTnVtYmVyKSAjcGxvdHMgc2VyaWFsTnVtYmVyCg==</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZvciBzZXJpYWxOdW1iZXIgaW4gc2VyaWFsTnVtYmVyTGlzdDoK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHVuaXQuSGVsbG9Xb3JsZCgpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBIZWxsb1dvcmxkKHNlbGYpOgogICAgICAgIHByaW50ICJZTyIKCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIHByaW50ICJDb3VsZG4ndCBjcmVhdGUgZGlyZWN0b3J5Igo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">cHJpbnQgIkF1ZGl0IExpc3QgRGlyZWN0b3J5IC0gIiArIHN0cihkaXJlY3RvcnkpCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAjIHVuaXQucGxvdFVuaXQoc2VyaWFsTnVtYmVyKSAjcGxvdHMgc2VyaWFsTnVtYmVyCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAjIGZvciBzZXJpYWxOdW1iZXIgaW4gc2VyaWFsTnVtYmVyTGlzdDoK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAjIHVuaXQuSGVsbG9Xb3JsZCgpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMjIGV4YW1wbGUgb2YgaG93IHRvIHBsb3QgYSB1bml0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>HelloWorld</last-search>
+      <last-search>##</last-search>
       <last-offset />
-      <last-pattern>HelloWorld</last-pattern>
+      <last-pattern>##</last-pattern>
+      <last-replace>#</last-replace>
+      <last-substitute>##</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -283,11 +328,17 @@
       <history-search>
         <entry>,</entry>
         <entry>HelloWorld</entry>
+        <entry>^##</entry>
+        <entry>##</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
         <entry>4,25y</entry>
         <entry>4,26y</entry>
+        <entry>%s/^##/#/g</entry>
+        <entry>%s/##/#/g</entry>
+        <entry>8,30y</entry>
+        <entry>9,30y</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
